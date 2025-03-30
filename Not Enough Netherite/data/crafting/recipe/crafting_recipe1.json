@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "#D#",
+        "#g#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:netherrack"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "g": {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    "result": {
+        "id": "minecraft:netherite_upgrade_smithing_template",
+        "count": 1
+    }
+}
